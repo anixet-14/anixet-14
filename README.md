@@ -1,3 +1,4 @@
+<body align="center">
 <h1 align="center">👋 Hi, I'm Aniket Gupta</h1>
 
 <p align="center">
@@ -125,3 +126,4 @@ and writing **clean, maintainable code**
 <p align="center">
   ⭐ <i>Always learning. Always building. Always improving.</i>
 </p>
+</body>
