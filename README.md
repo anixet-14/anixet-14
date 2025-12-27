@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
-<h3 align="center">
-Final Year B.Tech (AI & ML) | Full Stack Developer | GenAI Explorer <br/>
-Building scalable systems & intelligent applications
-</h3>
+<h1 align="center">👋 Hi, I'm Aniket Gupta</h1>
+
+<p align="center">
+  <b>Final Year B.Tech (AI & ML) Student</b> • 
+  <b>Full Stack Developer</b> • 
+  <b>GenAI Explorer</b>
+</p>
+
+<p align="center">
+  Building scalable systems, intelligent applications, and real-world solutions
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aniket1408">LinkedIn</a> •
+  <a href="https://anixet14.vercel.app">Portfolio</a> •
+  <a href="mailto:aniket.ag1408@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 Final year **B.Tech (Artificial Intelligence & Machine Learning)** student at  
-**M.S. Ramaiah Institute of Technology, Bengaluru** (GPA: **9.17/10**)
+🎓 Final year **B.Tech in Artificial Intelligence & Machine Learning**  
+🏫 **M.S. Ramaiah Institute of Technology, Bengaluru**  
+📊 **GPA: 9.17 / 10**
 
 💼 Incoming **Software Intern at ACI Worldwide**
 
 🚀 Passionate about **Full Stack Development, Machine Learning, GenAI**, and  
 **real-world problem solving**
 
-🧩 Strong foundation in **Data Structures & Algorithms**, system thinking, and clean code
+🧩 Strong foundation in **Data Structures & Algorithms**, system design thinking,  
+and writing **clean, maintainable code**
 
-⚡ I enjoy working on **scalable, secure, and performance-driven applications**
+⚡ I enjoy building **scalable, secure, and performance-driven applications**
 
 ---
 
@@ -54,51 +68,60 @@ Building scalable systems & intelligent applications
 
 ## 🚀 Featured Projects
 
-### 🎟️ SmartTix – AI Ticket Management System
-**Tech:** React, Node.js, MongoDB, Inngest, Google Gemini API, JWT  
-- Built a full-stack AI-powered ticketing platform  
+### 🎟️ SmartTix — AI Ticket Management System
+**Tech:** React • Node.js • MongoDB • Inngest • Google Gemini API • JWT  
+
+- Built a full-stack AI-powered ticketing platform for support automation  
+- Implemented async backend workflows for real-time AI feedback  
 - Automated ticket prioritization & skill annotation using GenAI  
-- Implemented async workflows and secure role-based access  
+- Designed secure role-based access with JWT authentication  
 
 ---
 
 ### 💳 Credit Card Fraud Detection
-**Tech:** Python, Scikit-Learn, Pandas, NumPy  
-- ML model using Logistic Regression to detect fraudulent transactions  
-- Handled class imbalance, feature scaling, and model evaluation  
-- Achieved reliable fraud detection with precision-focused metrics  
+**Tech:** Python • Scikit-Learn • Pandas • NumPy  
+
+- Developed an ML model to detect fraudulent transactions  
+- Performed EDA, handled class imbalance, and feature scaling  
+- Evaluated performance using precision, recall, and confusion matrix  
 
 ---
 
 ### 🧠 AI Multimodal Assistant
-**Tech:** Groq, Whisper, gTTS, ElevenLabs, LoRA, Gradio  
-- Built a voice & image-enabled AI assistant  
+**Tech:** Groq • Whisper • gTTS • ElevenLabs • LoRA • Gradio  
+
+- Built a browser-based assistant supporting voice & image inputs  
 - Personally handled **LLM fine-tuning using LoRA**  
-- Integrated scalable inference pipeline with interactive UI  
+- Integrated optimized inference pipeline with interactive UI  
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **National Semi-Finalist – Flipkart GRiD 7.0 (2025)**  
-- 💯 **10.0 CGPA** in 6th semester at MSRIT  
-- Strong academic & project-based profile  
+
+🏅 **National Semi-Finalist — Flipkart GRiD 7.0 (2025)**  
+🎯 **Perfect 10.0 CGPA** in 6th semester at MSRIT  
+📈 Consistently strong academic & project performance  
 
 ---
 
 ## 📌 Currently Focused On
-- Advanced **Full Stack Development**
+
+- Advanced **Full Stack Engineering**
 - **GenAI & LLM-based systems**
 - Strengthening **DSA & System Design**
 - Preparing for **Software Engineering roles**
 
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: [linkedin.com/in/aniket1408](https://linkedin.com/in/aniket1408)
-- 🌐 Portfolio: [anixet14.vercel.app](https://anixet14.vercel.app)
-- 📧 Email: aniket.ag1408@gmail.com
-- 🧑‍💻 GitHub: [github.com/anixet-14](https://github.com/anixet-14)
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/aniket1408  
+- 🌐 Portfolio: https://anixet14.vercel.app  
+- 📧 Email: aniket.ag1408@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/anixet-14  
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+<p align="center">
+  ⭐ <i>Always learning. Always building. Always improving.</i>
+</p>
