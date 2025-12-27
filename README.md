@@ -1,129 +1,158 @@
-<body align="center">
-<h1 align="center">👋 Hi, I'm Aniket Gupta</h1>
+<div align="center">
 
-<p align="center">
-  <b>Final Year B.Tech (AI & ML) Student</b> • 
-  <b>Full Stack Developer</b> • 
-  <b>GenAI Explorer</b>
-</p>
+# 👋 Aniket Gupta
 
-<p align="center">
-  Building scalable systems, intelligent applications, and real-world solutions
-</p>
+### Final Year B.Tech (AI & ML) • Full Stack Developer • GenAI Explorer  
+**Building scalable systems & intelligent applications**
 
-<p align="center">
-  <a href="https://linkedin.com/in/aniket1408">LinkedIn</a> •
-  <a href="https://anixet14.vercel.app">Portfolio</a> •
-  <a href="mailto:aniket.ag1408@gmail.com">Email</a>
-</p>
+<br/>
+
+<a href="https://linkedin.com/in/aniket1408">LinkedIn</a> ·
+<a href="https://anixet14.vercel.app">Portfolio</a> ·
+<a href="mailto:aniket.ag1408@gmail.com">Email</a> ·
+<a href="https://github.com/anixet-14">GitHub</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🧠 About Me
 
-🎓 Final year **B.Tech in Artificial Intelligence & Machine Learning**  
+🎓 Final Year **B.Tech in Artificial Intelligence & Machine Learning**  
 🏫 **M.S. Ramaiah Institute of Technology, Bengaluru**  
 📊 **GPA: 9.17 / 10**
 
+<br/>
+
 💼 Incoming **Software Intern at ACI Worldwide**
 
-🚀 Passionate about **Full Stack Development, Machine Learning, GenAI**, and  
-**real-world problem solving**
+🚀 Passionate about **Full Stack Development, Machine Learning, GenAI**,  
+and **real-world problem solving**
 
-🧩 Strong foundation in **Data Structures & Algorithms**, system design thinking,  
-and writing **clean, maintainable code**
+🧩 Strong foundation in **Data Structures & Algorithms**,  
+system design thinking, and clean code practices
 
 ⚡ I enjoy building **scalable, secure, and performance-driven applications**
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+
+<br/><br/>
 
 ### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,fastapi" />
+
+<br/><br/>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br/><br/>
 
 ### 🤖 AI / ML
-- Machine Learning  
-- Generative AI  
-- NLP & Multimodal Systems  
-- Data Science  
+Machine Learning • Generative AI • NLP • Multimodal Systems • Data Science
+
+<br/><br/>
 
 ### ⚙️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-### 🎟️ SmartTix — AI Ticket Management System
-**Tech:** React • Node.js • MongoDB • Inngest • Google Gemini API • JWT  
+</div>
 
-- Built a full-stack AI-powered ticketing platform for support automation  
-- Implemented async backend workflows for real-time AI feedback  
-- Automated ticket prioritization & skill annotation using GenAI  
-- Designed secure role-based access with JWT authentication  
+<div align="center">
 
----
+### 🎟️ SmartTix — AI Ticket Management System  
+**React • Node.js • MongoDB • Inngest • Google Gemini API • JWT**
 
-### 💳 Credit Card Fraud Detection
-**Tech:** Python • Scikit-Learn • Pandas • NumPy  
+Built a full-stack AI-powered ticketing platform to streamline support workflows  
+Implemented async backend processing for real-time AI feedback  
+Automated ticket prioritization & skill annotation using GenAI  
+Designed secure role-based access using JWT authentication  
 
-- Developed an ML model to detect fraudulent transactions  
-- Performed EDA, handled class imbalance, and feature scaling  
-- Evaluated performance using precision, recall, and confusion matrix  
+</div>
 
 ---
 
-### 🧠 AI Multimodal Assistant
-**Tech:** Groq • Whisper • gTTS • ElevenLabs • LoRA • Gradio  
+<div align="center">
 
-- Built a browser-based assistant supporting voice & image inputs  
-- Personally handled **LLM fine-tuning using LoRA**  
-- Integrated optimized inference pipeline with interactive UI  
+### 💳 Credit Card Fraud Detection  
+**Python • Scikit-Learn • Pandas • NumPy**
+
+Developed a machine learning model to detect fraudulent transactions  
+Handled class imbalance, feature scaling, and model evaluation  
+Measured performance using precision, recall, and confusion matrix  
+
+</div>
 
 ---
+
+<div align="center">
+
+### 🧠 AI Multimodal Assistant  
+**Groq • Whisper • gTTS • ElevenLabs • LoRA • Gradio**
+
+Built a browser-based assistant supporting voice & image inputs  
+Personally handled **LLM fine-tuning using LoRA**  
+Integrated optimized inference pipeline with an interactive UI  
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🏆 Achievements
 
-🏅 **National Semi-Finalist — Flipkart GRiD 7.0 (2025)**  
-🎯 **Perfect 10.0 CGPA** in 6th semester at MSRIT  
+🏅 National Semi-Finalist — **Flipkart GRiD 7.0 (2025)**  
+🎯 **Perfect 10.0 CGPA** in 6th semester  
 📈 Consistently strong academic & project performance  
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📌 Currently Focused On
 
-- Advanced **Full Stack Engineering**
-- **GenAI & LLM-based systems**
-- Strengthening **DSA & System Design**
-- Preparing for **Software Engineering roles**
+Advanced Full Stack Engineering  
+GenAI & LLM-based systems  
+Data Structures, Algorithms & System Design  
+Preparing for Software Engineering roles  
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-- 💼 LinkedIn: https://linkedin.com/in/aniket1408  
-- 🌐 Portfolio: https://anixet14.vercel.app  
-- 📧 Email: aniket.ag1408@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/anixet-14  
+## 📫 Let’s Connect
 
----
+💼 <a href="https://linkedin.com/in/aniket1408">LinkedIn</a>  
+🌐 <a href="https://anixet14.vercel.app">Portfolio</a>  
+📧 <a href="mailto:aniket.ag1408@gmail.com">aniket.ag1408@gmail.com</a>  
+🧑‍💻 <a href="https://github.com/anixet-14">GitHub</a>
 
-<p align="center">
-  ⭐ <i>Always learning. Always building. Always improving.</i>
-</p>
-</body>
+<br/><br/>
+
+⭐ *Always learning. Always building. Always improving.*
+
+</div>
